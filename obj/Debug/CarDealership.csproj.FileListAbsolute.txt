@@ -1,0 +1,12 @@
+D:\ASE\II. 2\PAW\EXAM\CarDealership\bin\Debug\Manufacturer.txt
+D:\ASE\II. 2\PAW\EXAM\CarDealership\bin\Debug\CarDealership.exe.config
+D:\ASE\II. 2\PAW\EXAM\CarDealership\bin\Debug\CarDealership.exe
+D:\ASE\II. 2\PAW\EXAM\CarDealership\bin\Debug\CarDealership.pdb
+D:\ASE\II. 2\PAW\EXAM\CarDealership\obj\Debug\CarDealership.csproj.AssemblyReference.cache
+D:\ASE\II. 2\PAW\EXAM\CarDealership\obj\Debug\CarDealership.AddEditForm.resources
+D:\ASE\II. 2\PAW\EXAM\CarDealership\obj\Debug\CarDealership.MainForm.resources
+D:\ASE\II. 2\PAW\EXAM\CarDealership\obj\Debug\CarDealership.Properties.Resources.resources
+D:\ASE\II. 2\PAW\EXAM\CarDealership\obj\Debug\CarDealership.csproj.GenerateResource.cache
+D:\ASE\II. 2\PAW\EXAM\CarDealership\obj\Debug\CarDealership.csproj.CoreCompileInputs.cache
+D:\ASE\II. 2\PAW\EXAM\CarDealership\obj\Debug\CarDealership.exe
+D:\ASE\II. 2\PAW\EXAM\CarDealership\obj\Debug\CarDealership.pdb
